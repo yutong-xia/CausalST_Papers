@@ -23,8 +23,8 @@ Since the collection is curated by an individual, some important papers might ha
 # Survey & Tutorial
 
 ## Survey
-
  - **[2024]** Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods [[pdf]](https://arxiv.org/abs/2404.05746v1) (Causal inference, Causal discovery, Spatio-temporal data)
+ - **[2023]** When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook [[pdf]](https://arxiv.org/pdf/2312.12477) (Causality, Graph Neural Network)
  - **[2023]** Data-Driven Causal Effect Estimation Based on Graphical Causal Modelling: A Survey [[pdf]](https://arxiv.org/abs/2208.09590)  (Causal inference)
  - **[2023]** Causal Discovery from Temporal Data: An Overview and New Perspectives [[pdf]](https://arxiv.org/abs/2303.10112) (Causal discovery, Time series)
  - **[2023]** A Survey on Causal Discovery Methods for I.I.D. and Time Series Data [[pdf]](https://arxiv.org/abs/2303.15027) (Causal discovery, Time series)
