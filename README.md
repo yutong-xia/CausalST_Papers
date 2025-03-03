@@ -119,9 +119,8 @@ Since the collection is curated by an individual, some important papers might ha
 
 ###  Spatio-Temporal Grid
 
- - **[arXiv'24]** Discovering Latent Structural Causal Models from Spatio-Temporal Data [[pdf]](https://arxiv.org/abs/2411.05331) [[code]](https://anonymous.4open.science/r/spacy-572B/readme.md) (Climate data)
-
+- **[arXiv'24]** Discovering Latent Structural Causal Models from Spatio-Temporal Data [[pdf]](https://arxiv.org/abs/2411.05331) [[code]](https://anonymous.4open.science/r/spacy-572B/readme.md) (Climate data)
+- **[KDD'23]** Generative Causal Interpretation Model for Spatio-Temporal Representation Learning [[pdf]](https://doi.org/10.1145/3580305.3599363) [[code]]([https://anonymous.4open.science/r/spacy-572B/readme.md](https://github.com/EternityZY/GCIM)) (Casual Interpretation)
 - **[BigData'22]** A spatio-temporal causal discovery framework for hydrological systems [[pdf]](https://ieeexplore.ieee.org/abstract/document/10020845?casa_token=Z55rZssq0DMAAAAA:LFwBbozUEBeV22D4nZMB-PTg5bLhUX5KWkT8xDpymn9Ha0jDMgaBvU1IUOdOjPEgIp4_5eBM0euk) [[code]](https://github.com/paras2612/STCD) (Hydrological systems)
-
 - **[Environmental Data Science'22]** A spatiotemporal stochastic climate model for benchmarking causal discovery methods for teleconnections [[pdf]](https://www.cambridge.org/core/journals/environmental-data-science/article/spatiotemporal-stochastic-climate-model-for-benchmarking-causal-discovery-methods-for-teleconnections/0E066B8813BA2281D2B95279EF3272B4)  [[code]](https://github.com/xtibau/mapped_pcmci)  (Climate data, Teleconnections)
 - **[Nature Communications'15]** Identifying causal gateways and mediators in complex spatio-temporal systems [[pdf]](https://www.nature.com/articles/ncomms9502) (Atmospheric dynamics, Complex systems, Causal effect estimation)
