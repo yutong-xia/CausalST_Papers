@@ -47,7 +47,7 @@ Since the collection is curated by an individual, some important papers might ha
 ##  Causal Inference
 
 ###  Spatio-Temporal Graphs/Multivariate Time Series
-- **[arXiv'25]** Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach [[pdf]](https://arxiv.org/pdf/2505.17637) (Multi-Model, GCN, Mamba)
+- **[NeurIPS'25]** Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach [[pdf]](https://arxiv.org/pdf/2505.17637) (Multi-Model, GCN, Mamba)
 - **[ICLR'24]** Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks [[pdf]](https://openreview.net/pdf?id=AJBkfwXh3u)  [[code]](https://github.com/kesenzhao/DyGNNExplainer) (Node and graph classification, Back-door adjustment)
 - **[AAAI'24]** Instrumental Variable Estimation for Causal Inference in Longitudinal Data with Time-Dependent Latent Confounders [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29029) (Instrumental variable, Causal effect estimation)
 - **[CIKM'24]** Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679642) (Imputation, Front-door adjustment, Causal attention)
