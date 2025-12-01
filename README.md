@@ -47,6 +47,7 @@ Since the collection is curated by an individual, some important papers might ha
 ##  Causal Inference
 
 ###  Spatio-Temporal Graphs/Multivariate Time Series
+- **[KDD'25]** Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction [[pdf]](https://dl.acm.org/doi/10.1145/3690624.3709201) [[code]](https://github.com/bigscity/STEVE_CODE) (Traffic prediction, Confounder representation)
 - **[NeurIPS'25]** Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach [[pdf]](https://arxiv.org/pdf/2505.17637) (Multi-Model, GCN, Mamba)
 - **[ICLR'24]** Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks [[pdf]](https://openreview.net/pdf?id=AJBkfwXh3u)  [[code]](https://github.com/kesenzhao/DyGNNExplainer) (Node and graph classification, Back-door adjustment)
 - **[AAAI'24]** Instrumental Variable Estimation for Causal Inference in Longitudinal Data with Time-Dependent Latent Confounders [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29029) (Instrumental variable, Causal effect estimation)
