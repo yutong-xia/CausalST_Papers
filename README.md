@@ -126,3 +126,4 @@ Since the collection is curated by an individual, some important papers might ha
 
 - **[IEEE Transactions on Cybernetics'25]** Causal Intervention Is What Large Language Models Need for Spatio-Temporal Forecasting. [[pdf]](https://ieeexplore.ieee.org/abstract/document/11017752)  [[code]](https://github.com/lishijie15/STCInterLLM) (Causal Intervention Encoder, Chain-of-Action Prompting for LLMs, Spatio-Temporal Adaptive Graphs)
 - **[arXiv'25]** Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models. [[pdf]](https://arxiv.org/abs/2510.07858) (Time Series, Causal Discovery, LLM-guided causal structure induction, Forecasting)
+- **[arXiv'25]** Reimagining urban science: Scaling causal inference with large language models [[pdf]](https://arxiv.org/abs/2510.07858) (Urban Data, AI Scientiest, LLM-based Agent)
