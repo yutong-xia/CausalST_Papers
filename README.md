@@ -62,7 +62,6 @@ Since the collection is curated by an individual, some important papers might ha
 - **[arXiv'24]** Causally-Aware Spatio-Temporal Multi-Graph Convolution Network for Accurate and Reliable Traffic Prediction [[pdf]](https://arxiv.org/abs/2408.13293) (Forecasting, Uncertainty quantification, Information fusion)
 - **[NeurIPS'23]** Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/74fa3651b41560e1c7555e0958c70333-Paper-Conference.pdf)  [[code]](https://github.com/yutong-xia/CaST) (Forecasting, Back-door adjustment, Front-door adjustment)
 - **[AAAI'23]** Spatio-temporal neural structural causal models for bike flow prediction [[pdf]](https://arxiv.org/abs/2301.07843) [[code]](https://github.com/EternityZY/STNSCM) (Forecasting, Front-door criterion)
-- **[AAAI'23]** Causal conditional hidden Markov model for multimodal traffic prediction [[pdf]](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25619)  [[code]](https://github.com/EternityZY/CCHMM) (Conditional Markov Process, Multimodal data)
 - **[KDD'23]** Generative Causal Interpretation Model for Spatio-Temporal Representation Learning [[pdf]](https://doi.org/10.1145/3580305.3599363) [[code]](https://github.com/EternityZY/GCIM) (VAE, Forecasting, ICA Theory)
 - **[ICMLA'23]** Quantifying Causes of Arctic Amplification via Deep Learning based Time-series Causal Inference [[pdf]](https://ieeexplore.ieee.org/abstract/document/10460053?casa_token=jYfB7zIzGm4AAAAA:XL9juR0uSrH1bs1UxGih-nn_MshDHMffsKYv5byHZKGadD2IE4mnqngEYFQHy32wPv6UII9EPS4_)  [[code]](https://github.com/iharp-institute/causality-for-arctic-amplification/tree/main/tcinet-icmla2023) (Counterfactual prediction, Earth science)
 - **[AAAG'23]** Spatiotemporal Heterogeneities in the Causal Effects of Mobility Intervention Policies during the COVID-19 Outbreak: A Spatially Interrupted Time-Series (SITS) Analysis [[pdf]](https://www.tandfonline.com/doi/full/10.1080/24694452.2022.2161986?scroll=top&needAccess=true) (Spatio-temporal heterogeneity, Mobile phone data, Mobility control policy)
@@ -72,10 +71,9 @@ Since the collection is curated by an individual, some important papers might ha
 ###  Spatio-Temporal Grid
 
 - **[NeurIPS'24]** Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model [[pdf]](https://arxiv.org/pdf/2409.19608) (Diffusion model, Backdoor adjustment, Frontdoor adjustment)
-
 - **[ICLR'24]** NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling [[pdf]](https://openreview.net/pdf?id=sLdVl0q68X)  [[code]](https://github.com/easylearningscores/NuwaDynamics) (Ocean system, Back-door adjustion)
-
 - **[ECML'24]** Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference [[pdf]](https://arxiv.org/pdf/2405.08174)  [[code]](https://github.com/iharp-institute/causality-for-arctic-amplification/tree/main/stcinet) (Treatment effects estimation, Spillover effects)
+- **[AAAI'23]** Causal conditional hidden Markov model for multimodal traffic prediction [[pdf]](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25619)  [[code]](https://github.com/EternityZY/CCHMM) (Conditional Markov Process, Multimodal data)
 - **[ICML'22]** CITRIS: Causal Identifiability from Temporal Intervened Sequences [[pdf]](https://proceedings.mlr.press/v162/lippe22a/lippe22a.pdf) [[code]](https://github.com/phlippe/CITRIS) (Causal representations learning, Multidimensional causal factors, Image data)
 
 
@@ -100,8 +98,10 @@ Since the collection is curated by an individual, some important papers might ha
 -   **[NeurIPS'23]** Causal Discovery from Subsampled Time Series with Proxy Variables [[pdf]](https://arxiv.org/pdf/2305.05276) [[code]](https://github.com/lmz123321/proxy_causal_discovery) (Time series, Subsampling)
 - **[AAAI'23]** Causal Recurrent Variational Autoencoder for Medical Time Series Generation [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26031) [[code]](https://github.com/hongmingli1995/CR-VAE) (CR-VAE, Generative model)
 - **[CIKM ’23]** STREAMS: Towards Spatio-Temporal Causal Discovery with Reinforcement Learning for Streamflow Rate Prediction [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614719?casa_token=x2ZGXSpdv2oAAAAA:0TgQHB4OROEtXfzClY89QvfJ0aFXwviASBeNCjSTEnEaQlYhaaCZ0hEYQLuGBzte3-CkaB7pbWYB)  [[code]](https://github.com/paras2612/STREAMS/tree/main) (Forecasting, Reinforcement Learning)
-- **[CIKM ’23]** Causal Discovery in Temporal Domain from Interventional Data [[pdf]](https://dl.acm.org/doi/10.1145/3583780.3615177)[[code]](https://github.com/lpwpower/TECDI) (Temporal reasoning, Multivariate time series)
--   **[CIKM'22]** Nonlinear Causal Discovery in Time Series [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557660) (Functional Causal Model, Time series, Non-stationary data)
+- **[CIKM'23]** Causal Discovery in Temporal Domain from Interventional Data [[pdf]](https://dl.acm.org/doi/10.1145/3583780.3615177)[[code]](https://github.com/lpwpower/TECDI) (Temporal reasoning, Multivariate time series)
+- **[KDD'23]** Generative Causal Interpretation Model for Spatio-Temporal Representation Learning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3580305.3599363)[[code]](https://github.com/EternityZY/GCIM) (Representation Learning, Causal Interpretation Model)
+- **[ICLR'22]** Learning Temporally Causal Latent Processes from General Temporal Data [[pdf]](https://arxiv.org/abs/2110.05428)[[code]](https://github.com/weirayao/leap) (Variational Autoencoders, Temporal Data, Causal Latent Processes)
+- **[CIKM'22]** Nonlinear Causal Discovery in Time Series [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557660) (Functional Causal Model, Time series, Non-stationary data)
 - **[CLeaR'22]** Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data [[pdf]](https://proceedings.mlr.press/v177/lowe22a)[[code]](https://github.com/loeweX/AmortizedCausalDiscovery) (Granger Causality, Noisy Observations)
 -   **[ICLR'21]** Interpretable Models for Granger Causality Using Self-explaining Neural Networks [[pdf]](https://arxiv.org/abs/2101.07600) [[code]](https://github.com/i6092467/GVAR) (Granger causality, Interpretable models)
  - **[ICML'21]** Necessary and sufficient conditions for causal feature selection in time series with latent common causes [[pdf]](https://proceedings.mlr.press/v139/mastakouri21a.html) (Causal feature selection)
@@ -121,6 +121,10 @@ Since the collection is curated by an individual, some important papers might ha
 - **[BigData'22]** A spatio-temporal causal discovery framework for hydrological systems [[pdf]](https://ieeexplore.ieee.org/abstract/document/10020845?casa_token=Z55rZssq0DMAAAAA:LFwBbozUEBeV22D4nZMB-PTg5bLhUX5KWkT8xDpymn9Ha0jDMgaBvU1IUOdOjPEgIp4_5eBM0euk) [[code]](https://github.com/paras2612/STCD) (Hydrological systems)
 - **[Environmental Data Science'22]** A spatiotemporal stochastic climate model for benchmarking causal discovery methods for teleconnections [[pdf]](https://www.cambridge.org/core/journals/environmental-data-science/article/spatiotemporal-stochastic-climate-model-for-benchmarking-causal-discovery-methods-for-teleconnections/0E066B8813BA2281D2B95279EF3272B4)  [[code]](https://github.com/xtibau/mapped_pcmci)  (Climate data, Teleconnections)
 - **[Nature Communications'15]** Identifying causal gateways and mediators in complex spatio-temporal systems [[pdf]](https://www.nature.com/articles/ncomms9502) (Atmospheric dynamics, Complex systems, Causal effect estimation)
+
+##  Causal Latent Representation Learing
+- **[KDD'23]** Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599421) [[code]](https://github.com/zzyy0929/KDD23-CauSTG)
+
 
 ## Large Language Models and ST Causality
 
