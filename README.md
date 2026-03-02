@@ -69,6 +69,7 @@ Since the collection is curated by an individual, some important papers might ha
 
 ###  Spatio-Temporal Grid
 
+- **[arXiv'26]** Identifiability of Treatment Effects with Unobserved Spatially Varying Confounders [[pdf]](https://arxiv.org/abs/2602.23291v1) (Causal effect identification, Spatial confounders, Observational causal inference)
 - **[NeurIPS'24]** Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model [[pdf]](https://arxiv.org/pdf/2409.19608) (Diffusion model, Backdoor adjustment, Frontdoor adjustment)
 - **[ICLR'24]** NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling [[pdf]](https://openreview.net/pdf?id=sLdVl0q68X)  [[code]](https://github.com/easylearningscores/NuwaDynamics) (Ocean system, Back-door adjustion)
 - **[ECML'24]** Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference [[pdf]](https://arxiv.org/pdf/2405.08174)  [[code]](https://github.com/iharp-institute/causality-for-arctic-amplification/tree/main/stcinet) (Treatment effects estimation, Spillover effects)
@@ -88,6 +89,8 @@ Since the collection is curated by an individual, some important papers might ha
 
 ###  Spatio-Temporal Graphs/Multivariate Time Series
 
+- **[arXiv'26]** Coarse-to-Fine Learning of Dynamic Causal Structures [[pdf]](https://arxiv.org/abs/2602.22532v1) (Dynamic causal discovery, Time-varying causality, Time series)
+- **[arXiv'26]** Generating Causal Temporal Interaction Graphs for Counterfactual Validation of Temporal Link Prediction [[pdf]](https://arxiv.org/abs/2602.02161v1) (Temporal interaction graphs, Counterfactual validation, Temporal causal structure)
 - **[AAAI'25]** SpaceTime: Causal Discovery from Non-Stationary Time Series [[pdf]](https://arxiv.org/pdf/2501.10235) [[code]]([https://github.com/jarrycyx/UNN](https://github.com/srhmm/spacetime)) (Minimum description length, Temporal causal graph, Kernelized discrepancy testing)
 -   **[AAAI'24]** CUTS+: High-Dimensional Causal Discovery from Irregular Time-Series [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29034) [[code]](https://github.com/jarrycyx/UNN) (Irregular sampling, Granger causality)
 -   **[ICLR'24]** CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [[pdf]](https://openreview.net/pdf?id=iad1yyyGme) [[code]](https://github.com/jarrycyx/UNN) [[websit]](https://www.causaltime.cc/) (Benchmarks, Time series)
