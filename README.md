@@ -70,9 +70,9 @@ Since the collection is curated by an individual, some important papers might ha
 
 ###  Spatio-Temporal Grid
 
-- **[arXiv'26]** Spatiotemporal double machine learning to estimate the impact of Cambodian land concessions on deforestation [[pdf]](https://arxiv.org/abs/2602.18570v1) (Spatiotemporal causal inference, Double machine learning, Deforestation)
+- **[arXiv'26]** Spatiotemporal double machine learning to estimate the impact of Cambodian land concessions on deforestation [[pdf]](https://arxiv.org/abs/2602.18570v1) [[code]](https://github.com/ddeprof/Spatiotemporal_DML) (Spatiotemporal causal inference, Double machine learning, Deforestation)
 - **[arXiv'26]** Identifiability of Treatment Effects with Unobserved Spatially Varying Confounders [[pdf]](https://arxiv.org/abs/2602.23291v1) (Causal effect identification, Spatial confounders, Observational causal inference)
-- **[NeurIPS'24]** Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model [[pdf]](https://arxiv.org/pdf/2409.19608) (Diffusion model, Backdoor adjustment, Frontdoor adjustment)
+- **[NeurIPS'24]** Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model [[pdf]](https://arxiv.org/pdf/2409.19608) [[code]](https://github.com/cpboost/123) (Diffusion model, Backdoor adjustment, Frontdoor adjustment)
 - **[ICLR'24]** NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling [[pdf]](https://openreview.net/pdf?id=sLdVl0q68X)  [[code]](https://github.com/easylearningscores/NuwaDynamics) (Ocean system, Back-door adjustion)
 - **[ECML'24]** Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference [[pdf]](https://arxiv.org/pdf/2405.08174)  [[code]](https://github.com/iharp-institute/causality-for-arctic-amplification/tree/main/stcinet) (Treatment effects estimation, Spillover effects)
 - **[AAAI'23]** Causal conditional hidden Markov model for multimodal traffic prediction [[pdf]](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25619)  [[code]](https://github.com/EternityZY/CCHMM) (Conditional Markov Process, Multimodal data)
@@ -95,10 +95,10 @@ Since the collection is curated by an individual, some important papers might ha
 - **[arXiv'26]** Learning Causal Structure of Time Series using Best Order Score Search [[pdf]](https://arxiv.org/abs/2603.05370v1) (Time series, Score-based discovery, Causal structure learning)
 - **[arXiv'26]** SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs [[pdf]](https://arxiv.org/abs/2602.02830) (Temporal causal discovery, Instantaneous-lagged graphs, Differentiable structure learning)
 - **[arXiv'26]** CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets [[pdf]](https://arxiv.org/abs/2602.02601) (Spatio-temporal graphs, Event causality, Disaster analytics)
-- **[arXiv'26]** DCD: Decomposition-based Causal Discovery from Autocorrelated and Non-Stationary Temporal Data [[pdf]](https://arxiv.org/abs/2602.01433) (Non-stationary time series, Component-wise discovery, Temporal causality)
+- **[arXiv'26]** DCD: Decomposition-based Causal Discovery from Autocorrelated and Non-Stationary Temporal Data [[pdf]](https://arxiv.org/abs/2602.01433) [[code]](https://github.com/noname2122/DCD-TMLR-2025) (Non-stationary time series, Component-wise discovery, Temporal causality)
 - **[arXiv'26]** Distributed Dynamic Invariant Causal Prediction in Environmental Time Series [[pdf]](https://arxiv.org/abs/2603.02902v1) (Environmental time series, Invariant causal prediction, Distribution shift)
 - **[arXiv'26]** VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery [[pdf]](https://arxiv.org/abs/2602.21381v1) (Time series causal discovery, Consensus framework, Validation)
-- **[arXiv'26]** Large Causal Models for Temporal Causal Discovery [[pdf]](https://arxiv.org/abs/2602.18662v1) (Temporal causal discovery, Foundation models, Multivariate time series)
+- **[arXiv'26]** Large Causal Models for Temporal Causal Discovery [[pdf]](https://arxiv.org/abs/2602.18662v1) [[code]](https://github.com/kougioulis/LCM-paper/) (Temporal causal discovery, Foundation models, Multivariate time series)
 - **[arXiv'26]** Coarse-to-Fine Learning of Dynamic Causal Structures [[pdf]](https://arxiv.org/abs/2602.22532v1) (Dynamic causal discovery, Time-varying causality, Time series)
 - **[arXiv'26]** Generating Causal Temporal Interaction Graphs for Counterfactual Validation of Temporal Link Prediction [[pdf]](https://arxiv.org/abs/2602.02161v1) (Temporal interaction graphs, Counterfactual validation, Temporal causal structure)
 - **[AAAI'25]** SpaceTime: Causal Discovery from Non-Stationary Time Series [[pdf]](https://arxiv.org/pdf/2501.10235) [[code]]([https://github.com/jarrycyx/UNN](https://github.com/srhmm/spacetime)) (Minimum description length, Temporal causal graph, Kernelized discrepancy testing)
