@@ -47,6 +47,7 @@ Since the collection is curated by an individual, some important papers might ha
 ##  Causal Inference
 
 ###  Spatio-Temporal Graphs/Multivariate Time Series
+- **[arXiv'26]** MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting [[pdf]](https://arxiv.org/abs/2601.11089) (Epidemic forecasting, Mobility-informed causality, Lightweight adaptation)
 - **[KDD'25]** Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction [[pdf]](https://dl.acm.org/doi/10.1145/3690624.3709201) [[code]](https://github.com/bigscity/STEVE_CODE) (Traffic prediction, Confounder representation)
 - **[NeurIPS'25]** Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach [[pdf]](https://arxiv.org/pdf/2505.17637) (Multi-Model, GCN, Mamba)
 - **[CIKM'25]** Solar Forecasting with Causality: A Graph-Transformer Approach to Spatiotemporal Dependencies [[pdf]](https://doi.org/10.1145/3746252.3760905) (Solar forecasting, Graph Transformer)
@@ -90,7 +91,11 @@ Since the collection is curated by an individual, some important papers might ha
 
 ###  Spatio-Temporal Graphs/Multivariate Time Series
 
+- **[ICLR'26 Workshop]** Interventional Time Series Priors for Causal Foundation Models [[pdf]](https://arxiv.org/pdf/2603.11090) [[code]](https://github.com/thummd/CausalTimePrior) (Temporal SCM generation, Interventional time series, Causal foundation models)
 - **[arXiv'26]** Learning Causal Structure of Time Series using Best Order Score Search [[pdf]](https://arxiv.org/abs/2603.05370v1) (Time series, Score-based discovery, Causal structure learning)
+- **[arXiv'26]** SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs [[pdf]](https://arxiv.org/abs/2602.02830) (Temporal causal discovery, Instantaneous-lagged graphs, Differentiable structure learning)
+- **[arXiv'26]** CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets [[pdf]](https://arxiv.org/abs/2602.02601) (Spatio-temporal graphs, Event causality, Disaster analytics)
+- **[arXiv'26]** DCD: Decomposition-based Causal Discovery from Autocorrelated and Non-Stationary Temporal Data [[pdf]](https://arxiv.org/abs/2602.01433) (Non-stationary time series, Component-wise discovery, Temporal causality)
 - **[arXiv'26]** Distributed Dynamic Invariant Causal Prediction in Environmental Time Series [[pdf]](https://arxiv.org/abs/2603.02902v1) (Environmental time series, Invariant causal prediction, Distribution shift)
 - **[arXiv'26]** VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery [[pdf]](https://arxiv.org/abs/2602.21381v1) (Time series causal discovery, Consensus framework, Validation)
 - **[arXiv'26]** Large Causal Models for Temporal Causal Discovery [[pdf]](https://arxiv.org/abs/2602.18662v1) (Temporal causal discovery, Foundation models, Multivariate time series)
