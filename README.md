@@ -20,6 +20,7 @@ Since the collection is curated by an individual, some important papers might ha
 		- [Spatio-Temporal Graphs](#spatio-temporal-graphsmultivariate-time-series-1)
 		- [Spatio-Temporal Grid](#spatio-temporal-grid-1)
 	- [LLMs and ST Causality](#large-language-models-and-st-causality)
+	- [Benchmarks / Datasets / Evaluation](#benchmarks--datasets--evaluation)
    
 # Survey & Tutorial
 
@@ -93,17 +94,17 @@ Since the collection is curated by an individual, some important papers might ha
 
 - **[ICLR'26 Workshop]** Interventional Time Series Priors for Causal Foundation Models [[pdf]](https://arxiv.org/pdf/2603.11090) [[code]](https://github.com/thummd/CausalTimePrior) (Temporal SCM generation, Interventional time series, Causal foundation models)
 - **[arXiv'26]** Learning Causal Structure of Time Series using Best Order Score Search [[pdf]](https://arxiv.org/abs/2603.05370v1) (Time series, Score-based discovery, Causal structure learning)
-- **[arXiv'26]** SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs [[pdf]](https://arxiv.org/abs/2602.02830) (Temporal causal discovery, Instantaneous-lagged graphs, Differentiable structure learning)
-- **[arXiv'26]** CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets [[pdf]](https://arxiv.org/abs/2602.02601) (Spatio-temporal graphs, Event causality, Disaster analytics)
-- **[arXiv'26]** DCD: Decomposition-based Causal Discovery from Autocorrelated and Non-Stationary Temporal Data [[pdf]](https://arxiv.org/abs/2602.01433) [[code]](https://github.com/noname2122/DCD-TMLR-2025) (Non-stationary time series, Component-wise discovery, Temporal causality)
 - **[arXiv'26]** Distributed Dynamic Invariant Causal Prediction in Environmental Time Series [[pdf]](https://arxiv.org/abs/2603.02902v1) (Environmental time series, Invariant causal prediction, Distribution shift)
+- **[arXiv'26]** Coarse-to-Fine Learning of Dynamic Causal Structures [[pdf]](https://arxiv.org/abs/2602.22532v1) (Dynamic causal discovery, Time-varying causality, Time series)
 - **[arXiv'26]** VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery [[pdf]](https://arxiv.org/abs/2602.21381v1) (Time series causal discovery, Consensus framework, Validation)
 - **[arXiv'26]** Large Causal Models for Temporal Causal Discovery [[pdf]](https://arxiv.org/abs/2602.18662v1) [[code]](https://github.com/kougioulis/LCM-paper/) (Temporal causal discovery, Foundation models, Multivariate time series)
-- **[arXiv'25]** Creating a Causally Grounded Rating Method for Assessing the Robustness of AI Models for Time-Series Forecasting [[pdf]](https://arxiv.org/abs/2502.12226v3) (Robustness evaluation, Time-series forecasting, Causal bias analysis)
-- **[NeurIPS'25]** CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models [[pdf]](https://arxiv.org/abs/2505.16620v2) [[code]](https://github.com/kausable/CausalDynamics) (Benchmarking, Dynamical causal models, Structural discovery)
-- **[arXiv'26]** Coarse-to-Fine Learning of Dynamic Causal Structures [[pdf]](https://arxiv.org/abs/2602.22532v1) (Dynamic causal discovery, Time-varying causality, Time series)
+- **[arXiv'26]** SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs [[pdf]](https://arxiv.org/abs/2602.02830) (Temporal causal discovery, Instantaneous-lagged graphs, Differentiable structure learning)
+- **[arXiv'26]** CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets [[pdf]](https://arxiv.org/abs/2602.02601) (Spatio-temporal graphs, Event causality, Disaster analytics)
 - **[arXiv'26]** Generating Causal Temporal Interaction Graphs for Counterfactual Validation of Temporal Link Prediction [[pdf]](https://arxiv.org/abs/2602.02161v1) (Temporal interaction graphs, Counterfactual validation, Temporal causal structure)
+- **[arXiv'26]** DCD: Decomposition-based Causal Discovery from Autocorrelated and Non-Stationary Temporal Data [[pdf]](https://arxiv.org/abs/2602.01433) [[code]](https://github.com/noname2122/DCD-TMLR-2025) (Non-stationary time series, Component-wise discovery, Temporal causality)
+- **[NeurIPS'25]** CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models [[pdf]](https://arxiv.org/abs/2505.16620v2) [[code]](https://github.com/kausable/CausalDynamics) (Benchmarking, Dynamical causal models, Structural discovery)
 - **[AAAI'25]** SpaceTime: Causal Discovery from Non-Stationary Time Series [[pdf]](https://arxiv.org/pdf/2501.10235) [[code]]([https://github.com/jarrycyx/UNN](https://github.com/srhmm/spacetime)) (Minimum description length, Temporal causal graph, Kernelized discrepancy testing)
+- **[arXiv'25]** Creating a Causally Grounded Rating Method for Assessing the Robustness of AI Models for Time-Series Forecasting [[pdf]](https://arxiv.org/abs/2502.12226v3) (Robustness evaluation, Time-series forecasting, Causal bias analysis)
 -   **[AAAI'24]** CUTS+: High-Dimensional Causal Discovery from Irregular Time-Series [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29034) [[code]](https://github.com/jarrycyx/UNN) (Irregular sampling, Granger causality)
 -   **[ICLR'24]** CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [[pdf]](https://openreview.net/pdf?id=iad1yyyGme) [[code]](https://github.com/jarrycyx/UNN) [[websit]](https://www.causaltime.cc/) (Benchmarks, Time series)
 -  **[ICML'24]** Causal Discovery via Conditional Independence Testing with Proxy Variables [[pdf]](https://arxiv.org/pdf/2305.05281) [[code]](https://github.com/lmz123321/proxy_causal_discovery) (Time series, Proxy causal learning, Conditional independence testing)
@@ -144,12 +145,33 @@ Since the collection is curated by an individual, some important papers might ha
 - **[WSDM ’24]** CityCAN: Causal Attention Network for Citywide Spatio-Temporal Forecasting [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635764) (Forecasting, Causal attention)
 - **[ICLR’22]** CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [[pdf]](https://openreview.net/forum?id=PilZY3omXV2) [[code]](https://github.com/salesforce/CoST) (Contrastive Learning, Time Series Forecasting, Disentangled Seasonal-trend Representations)
 
+
 ## Large Language Models and ST Causality
+- **[AAAI'26]** Timemkg: Knowledge-infused causal reasoning for multivariate time series modeling [[pdf]](https://arxiv.org/abs/2508.09630) (Causal Reasoning, Multivariate Time Series Modeling)
+- **[arXiv'26]** What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting [[pdf]](https://arxiv.org/abs/2601.08509v1) [[code]](https://github.com/jinkwan1115/WhatIfTSF) (Scenario-guided forecasting, Multimodal time series, Benchmarking)
+- **[IEEE Transactions on Cybernetics'25]** Causal Intervention Is What Large Language Models Need for Spatio-Temporal Forecasting. [[pdf]](https://ieeexplore.ieee.org/abstract/document/11017752)  [[code]](https://github.com/lishijie15/STCInterLLM) (Causal Intervention Encoder, Chain-of-Action Prompting for LLMs, Spatio-Temporal Adaptive Graphs)
 - **[VLDB'25]** ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning [[pdf]](https://arxiv.org/abs/2412.03104v3) [[code]](https://github.com/NetManAIOps/ChatTS) (Synthetic alignment, Time-series understanding, LLM reasoning)
 - **[arXiv'25]** AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[pdf]](https://arxiv.org/abs/2509.24378v2) [[code]](https://github.com/thu-sail-lab/AXIS) (Explainable anomaly detection, Time-series LLMs, Root-cause analysis)
 - **[OpenReview'25]** Investigating Hallucinations of Time Series Foundation Models through Signal Subspace Analysis [[pdf]](https://openreview.net/pdf?id=vgfG8sEVf9) (TSFM hallucinations, Signal subspace intervention, Forecast trustworthiness)
-- **[arXiv'26]** What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting [[pdf]](https://arxiv.org/abs/2601.08509v1) [[code]](https://github.com/jinkwan1115/WhatIfTSF) (Scenario-guided forecasting, Multimodal time series, Benchmarking)
-- **[AAAI'26]** Timemkg: Knowledge-infused causal reasoning for multivariate time series modeling [[pdf]](https://arxiv.org/abs/2508.09630) (Causal Reasoning, Multivariate Time Series Modeling)
-- **[IEEE Transactions on Cybernetics'25]** Causal Intervention Is What Large Language Models Need for Spatio-Temporal Forecasting. [[pdf]](https://ieeexplore.ieee.org/abstract/document/11017752)  [[code]](https://github.com/lishijie15/STCInterLLM) (Causal Intervention Encoder, Chain-of-Action Prompting for LLMs, Spatio-Temporal Adaptive Graphs)
 - **[arXiv'25]** Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models. [[pdf]](https://arxiv.org/abs/2510.07858) (Time Series, Causal Discovery, LLM-guided causal structure induction, Forecasting)
 - **[arXiv'25]** Reimagining urban science: Scaling causal inference with large language models [[pdf]](https://arxiv.org/abs/2510.07858) (Urban Data, AI Scientiest, LLM-based Agent)
+
+## Benchmarks / Datasets / Evaluation
+
+### Non-generative benchmarks
+- **[arXiv'26]** What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting [[pdf]](https://arxiv.org/abs/2601.08509v1) [[code]](https://github.com/jinkwan1115/WhatIfTSF) (Scenario-guided forecasting, Multimodal time series, Benchmark)
+
+### Generative data frameworks
+
+#### for evaluation
+- **[ICLR'26]** TCD-Arena: Assessing Robustness of Time Series Causal Discovery Methods Against Assumption Violations [[pdf]](https://openreview.net/pdf?id=MtdrOCLAGY) (Robustness stress testing, Assumption violations, Time-series causal discovery)
+- **[KDD'25]** TimeGraph: Synthetic Benchmark Datasets for Robust Time-Series Causal Discovery [[pdf]](https://arxiv.org/abs/2506.01361v1) [[code]](https://github.com/hferdous/TimeGraph) (Synthetic benchmark datasets, Time-series causal discovery, Evaluation)
+- **[NeurIPS'25]** CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models [[pdf]](https://arxiv.org/abs/2505.16620v2) [[code]](https://github.com/kausable/CausalDynamics) (Dynamical causal models, Structural discovery, Benchmarking)
+- **[arXiv'26]** CausalCompass: Evaluating the Robustness of Time-Series Causal Discovery in Misspecified Scenarios [[pdf]](https://arxiv.org/abs/2602.07915v1) [[code]](https://github.com/huiyang-yi/CausalCompass) (Robustness evaluation, Misspecified scenarios, Time-series causal discovery)
+- **[ICLR'24]** CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [[pdf]](https://openreview.net/pdf?id=iad1yyyGme) [[code]](https://github.com/jarrycyx/UNN) (Synthetic time-series generation, Causal discovery benchmark, Evaluation)
+- **[Environmental Data Science'22]** A spatiotemporal stochastic climate model for benchmarking causal discovery methods for teleconnections [[pdf]](https://www.cambridge.org/core/journals/environmental-data-science/article/spatiotemporal-stochastic-climate-model-for-benchmarking-causal-discovery-methods-for-teleconnections/0E066B8813BA2281D2B95279EF3272B4) [[code]](https://github.com/xtibau/mapped_pcmci) (Spatiotemporal climate simulator, Teleconnections, Benchmarking)
+- **[Report'23]** Benchmarking the PCMCI Causal Discovery Algorithm for Spatiotemporal Systems [[pdf]](https://doi.org/10.2172/1991387) (PCMCI, Spatiotemporal systems, Benchmarking)
+
+#### for training
+- **[ICLR'26 Workshop]** Interventional Time Series Priors for Causal Foundation Models [[pdf]](https://arxiv.org/pdf/2603.11090) [[code]](https://github.com/thummd/CausalTimePrior) (Temporal SCM generation, Interventional time series, Training priors)
+
